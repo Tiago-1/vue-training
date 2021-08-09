@@ -1,0 +1,7 @@
+{
+    "root": "dist",
+    "client_url": true,
+    "routes":{
+        "/**": "index.html"
+    }
+}
