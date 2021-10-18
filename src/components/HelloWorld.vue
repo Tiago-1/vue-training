@@ -180,6 +180,9 @@ export default {
     clearForm() {
       this.usuario = new Object();
     },
+    print(text) {
+      console.log(text);
+    }
   },
 };
 </script>
