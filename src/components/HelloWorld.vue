@@ -14,7 +14,7 @@
       </div>
 
       <div class="field">
-        <label class="label">LastName</label>
+        <label class="label">Last Name</label>
         <div class="control has-icons-left has-icons-right">
           <input
             class="input is-success"
